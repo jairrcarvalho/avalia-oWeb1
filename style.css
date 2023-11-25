@@ -1,0 +1,8 @@
+
+.custom-border {
+    background-color: rgb(198, 191, 191);
+    width: 300px;
+    border: 2px solid black; 
+    padding: 10px;
+    border-radius: 8px; 
+  }
